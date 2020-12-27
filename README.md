@@ -8,6 +8,8 @@ The main goal of this project is keep a data about supernovas co-discovered by m
 
 Click [here](https://github.com/mbiesiad/supernovas-biesiada/blob/main/table/discoveries-mb.csv).
 
+Additional table [here](https://github.com/mbiesiad/supernovas-biesiada/blob/main/table/discoveries-mb2.csv).
+
 The crowdsourcing' ideas are great as well for new technologies (ie. [Google Crowdsource](https://crowdsource.google.com/)), as for the science (above).
 
 This time, no ToC or CoC. That's rather 'personal' stuff. A lot of people are interested and courious about the Project, so I hope I helped.
