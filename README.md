@@ -4,6 +4,8 @@ The project is inspired by SOHO comets [discoveries-biesiada](https://github.com
 
 The main goal of this project is keep a data about supernovas co-discovered by me. ⭐ I'm focusing here on [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters/), citizen science (crowdsourcing) project by [Zooniverse](https://www.zooniverse.org/). I suppose it will be quite useful for me, I mean organize the data. ⭐ 
 
+Discovery counter: 1022
+
 Quick update: Since 2025 it may also contain data / results from the [Kilonova Seekers](https://www.zooniverse.org/projects/tkillestein/kilonova-seekers/) project.
 
 ## Table
